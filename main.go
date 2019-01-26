@@ -16,6 +16,7 @@ import "fmt"
 	0就是假，非0就是真
 3.
  */
+ //test1111
 func main()  {
 
 	var flag bool
